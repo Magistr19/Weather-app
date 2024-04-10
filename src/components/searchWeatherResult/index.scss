@@ -1,0 +1,18 @@
+.ResultContainer {
+  width: 320px;
+  margin: 20px auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.ResultTemperature {
+  font-size: 30px;
+  margin-bottom: 15px;
+}
+
+.ResultText {
+  font-size: 18px;
+  line-height: 1.5;
+}

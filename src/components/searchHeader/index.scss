@@ -1,0 +1,29 @@
+@import "../../consts/variables.scss";
+
+.SearchHeader {
+  background: $accent-color;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.SearchInput {
+  border-radius: 5px;
+  width: 280px;
+  height: 30px;
+  margin-right: 10px;
+}
+
+.SearchSubmit {
+  height: 30px;
+  background: $secondary-color;
+  color: $white;
+  border: none;
+  padding: 0 10px;
+  border-radius: 5px;
+  font-size: 14px;
+
+  &:hover {
+    opacity: 0.8;
+  }
+}
