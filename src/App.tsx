@@ -5,7 +5,7 @@ import "react-toastify/dist/ReactToastify.css";
 
 const App: React.FC = () => {
   return (
-    <Router basename="/index.html">
+    <Router basename="/">
       <Routes>
         <Route path="/" element={<WeatherPage />} />
       </Routes>
