@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Magistr19/Weather-app/static/css/main.5b51464e.css",
-    "main.js": "/Magistr19/Weather-app/static/js/main.f7b53d26.js",
+    "main.js": "/Magistr19/Weather-app/static/js/main.be16dac0.js",
     "index.html": "/Magistr19/Weather-app/index.html",
     "main.5b51464e.css.map": "/Magistr19/Weather-app/static/css/main.5b51464e.css.map",
-    "main.f7b53d26.js.map": "/Magistr19/Weather-app/static/js/main.f7b53d26.js.map"
+    "main.be16dac0.js.map": "/Magistr19/Weather-app/static/js/main.be16dac0.js.map"
   },
   "entrypoints": [
     "static/css/main.5b51464e.css",
-    "static/js/main.f7b53d26.js"
+    "static/js/main.be16dac0.js"
   ]
 }
